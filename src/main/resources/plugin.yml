@@ -1,0 +1,26 @@
+name: Ert
+version: '${project.version}'
+main: ess.ert.Ert
+depend: [ProtocolLib]
+commands:
+  fly:
+    usage: /fly
+  edi:
+    usage: /edi
+  fun:
+    usage: /fun
+  stic:
+    usage: /stic
+  skull:
+    usage: /skull
+  irn:
+    usage: /irn
+    aliases:
+      - irn
+      - irn changenick
+      - irn changename
+      - irn addlore
+  gp:
+    usage: /gp
+  uui:
+    usage: /uui

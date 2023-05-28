@@ -1,0 +1,8 @@
+scoreboard:
+  enable: true
+  title: "&e&lSKYBLOCK &b&lCO-OP&7"
+  lines:
+    - "&7%date% &9%id%"
+    - "&fBalance: &e1,000,000,000"
+    - ""
+    - "&ewww.host.ru"
